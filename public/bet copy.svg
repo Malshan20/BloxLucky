@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" version="1" id="bet">
+  <g stroke="#373748" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.85" color="#000">
+    <g transform="matrix(.54362 0 0 .53739 -59.263 -627.174)">
+      <rect width="25" height="25" x="110" y="1187.362" fill="#f55" overflow="visible" rx="5.519" ry="5.583" style="isolation:auto;mix-blend-mode:normal"></rect>
+      <circle cx="116" cy="1193.362" r="2.5" fill="#f2f2f2" overflow="visible" style="isolation:auto;mix-blend-mode:normal"></circle>
+      <circle cx="129" cy="1206.362" r="2.5" fill="#f2f2f2" overflow="visible" style="isolation:auto;mix-blend-mode:normal"></circle>
+      <circle cx="122.5" cy="1199.862" r="2.5" fill="#f2f2f2" overflow="visible" style="isolation:auto;mix-blend-mode:normal"></circle>
+    </g>
+    <g transform="matrix(.47078 .2687 -.2718 .4654 291.752 -575.572)">
+      <rect width="25" height="25" x="110" y="1187.362" fill="#f55" overflow="visible" rx="5.519" ry="5.583" style="isolation:auto;mix-blend-mode:normal"></rect>
+      <circle cx="116" cy="1193.362" r="2.5" fill="#f2f2f2" overflow="visible" style="isolation:auto;mix-blend-mode:normal"></circle>
+      <circle cx="129" cy="1206.362" r="2.5" fill="#f2f2f2" overflow="visible" style="isolation:auto;mix-blend-mode:normal"></circle>
+      <circle cx="122.5" cy="1199.862" r="2.5" fill="#f2f2f2" overflow="visible" style="isolation:auto;mix-blend-mode:normal"></circle>
+      <g fill="#f2f2f2" transform="matrix(1 0 0 -1 0 2399.724)">
+        <circle cx="116" cy="1193.362" r="2.5" overflow="visible" style="isolation:auto;mix-blend-mode:normal"></circle>
+        <circle cx="129" cy="1206.362" r="2.5" overflow="visible" style="isolation:auto;mix-blend-mode:normal"></circle>
+      </g>
+    </g>
+  </g>
+</svg>
