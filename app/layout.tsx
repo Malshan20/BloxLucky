@@ -29,7 +29,7 @@ export default function RootLayout({
   return (
     <html lang="en" className="dark">
       <body
-        className={`${poppins.className} ${russoOne.className} text-green-300 min-h-screen flex flex-col jungle-pattern relative leaf-overlay palm-leaf-bottom`} style={{backgroundImage: "url('/blox.png')", backgroundSize: 'cover', backgroundPosition: 'center', backgroundRepeat: 'no-repeat'}}>
+        className={`${poppins.className} ${russoOne.className} text-green-300 min-h-screen flex flex-col jungle-pattern relative leaf-overlay palm-leaf-bottom`} style={{backgroundImage: "url('public/BLOX.png')", backgroundSize: 'cover', backgroundPosition: 'center', backgroundRepeat: 'no-repeat'}}>
           <Navbar />
           <main className="flex-1">{children}</main>
           <Footer />
