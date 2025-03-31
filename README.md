@@ -2,7 +2,7 @@
 
 Welcome to BloxLucky, your premier online casino gaming platform! Here, you can play a variety of exciting casino games and win big!
 
-![BloxLucky Background](Banner_.png)
+![BloxLucky Background](@/public/Banner_.png)
 
 ## Features
 
